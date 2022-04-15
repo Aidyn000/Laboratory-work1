@@ -1,0 +1,76 @@
+{
+  "files": {
+    "begins.cpp": [
+      {
+        "id": "13a08be3-7604-4f3a-8c7a-cc7b8cfe8dbd",
+        "line": 136,
+        "version": 9718,
+        "index": 1931
+      },
+      {
+        "id": "54944e6a-203d-4440-ab89-609852f61add",
+        "line": 326,
+        "version": 9718,
+        "index": 5340
+      }
+    ],
+    "defence3.cpp": [
+      {
+        "id": "7c7f01d5-c040-4ccc-ba34-07796de460bf",
+        "line": 1,
+        "version": 794,
+        "index": 0
+      }
+    ],
+    "homelab7.cpp": [
+      {
+        "id": "c209b040-d9be-433c-b3ef-1a18338a2a29",
+        "line": 165,
+        "version": 4126,
+        "index": 2280
+      },
+      {
+        "id": "c6bedb87-fa2d-4db5-bc49-c77edc852def",
+        "line": 188,
+        "version": 4126,
+        "index": 2459
+      },
+      {
+        "id": "c923eb14-b838-4c88-830f-122a17b75fdc",
+        "line": 188,
+        "version": 4126,
+        "index": 2459
+      }
+    ],
+    "homework6.cpp": [
+      {
+        "id": "15d8eb48-b889-4f93-ba99-1e4a34086421",
+        "line": 12,
+        "version": 2943,
+        "index": 196
+      },
+      {
+        "id": "3fd54cd9-01f4-4286-ad8e-76df52773c32",
+        "line": 21,
+        "version": 2943,
+        "index": 389
+      }
+    ],
+    "laboratory1.cpp": [
+      {
+        "id": "7f5dd846-7f6a-4171-b59b-9a2e2d3ff8b8",
+        "line": 9,
+        "version": 17,
+        "index": 133
+      }
+    ],
+    "laborotorywork5.cpp": [
+      {
+        "id": "a619c13f-a5b2-443c-ae74-8def3637cc1a",
+        "line": 1,
+        "version": 1741,
+        "index": 19
+      }
+    ]
+  }
+}
